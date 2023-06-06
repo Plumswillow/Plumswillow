@@ -2,3 +2,4 @@
 - 👀 I’m interested in Electron js
 - 🌱 I’m currently learning JavaFX and JavaScript
 - 📫 How to reach me Plumswillow#1234
+- 🐍 Learning Python
